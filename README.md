@@ -1,22 +1,19 @@
 ### 👋 QQQQQ ALL
 
-## What do I do and who I am
-
-HHHHHHHHHH
-My name is **Sava**, but you can call me GAS
-|
-Languages:
-English, Russian.
+langs:
+English (B2), Russian.
 
 Coding, working, sleeping, feeding a dog and again sleeping :/
 
 ## My Projects
-
-I won't show you))))
+[xbanking.org](https://xbanking.org/)
+[superdapp.io](https://superdapp.io/)
+[app.xbanking.org](https://app.xbanking.org/)
+[nasa.com](https://www.nasa.gov/) (joke)
 
 ## how can you contact me
 
-[**Telegram**](https://t.me/lemonqee), [**vk**](https://vk.com/skaz0)
+[**Telegram**](https://t.me/lall11l)
 
 <div align='right'>
   <a title='j++' href='https://www.youtube.com/watch?v=dQw4w9WgXcQ'>
